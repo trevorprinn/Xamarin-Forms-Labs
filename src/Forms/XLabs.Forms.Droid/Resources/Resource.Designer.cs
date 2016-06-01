@@ -3001,12 +3001,6 @@ namespace XLabs.Forms
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f080027
-			public static int ApplicationName = 2131230759;
-			
-			// aapt resource value: 0x7f080026
-			public static int Hello = 2131230758;
-			
 			// aapt resource value: 0x7f08000f
 			public static int abc_action_bar_home_description = 2131230735;
 			
@@ -3073,20 +3067,20 @@ namespace XLabs.Forms
 			// aapt resource value: 0x7f080025
 			public static int character_counter_pattern = 2131230757;
 			
-			// aapt resource value: 0x7f080029
-			public static int day_name_format = 2131230761;
-			
-			// aapt resource value: 0x7f08002c
-			public static int full_date_format = 2131230764;
+			// aapt resource value: 0x7f080027
+			public static int day_name_format = 2131230759;
 			
 			// aapt resource value: 0x7f08002a
-			public static int invalid_date = 2131230762;
+			public static int full_date_format = 2131230762;
 			
 			// aapt resource value: 0x7f080028
-			public static int library_name = 2131230760;
+			public static int invalid_date = 2131230760;
 			
-			// aapt resource value: 0x7f08002b
-			public static int month_name_format = 2131230763;
+			// aapt resource value: 0x7f080026
+			public static int library_name = 2131230758;
+			
+			// aapt resource value: 0x7f080029
+			public static int month_name_format = 2131230761;
 			
 			// aapt resource value: 0x7f080000
 			public static int mr_button_content_description = 2131230720;
